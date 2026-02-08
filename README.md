@@ -70,8 +70,3 @@ Adjust styles in stylesheet.css for your preferred look.
 ❤️ Appreciation
 
 If you enjoy this project, give it a ⭐ on GitHub! 🌟
-
-📄 License
-
-This project can be shared and customized freely.
-Add a license (e.g., MIT) if you want clarity on usage rights.
