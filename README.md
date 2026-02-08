@@ -1,4 +1,4 @@
-🎉 🎂 Happy Birthday Web Animation
+### 🎉 🎂 Happy Birthday Web Animation
 
 A fun, interactive birthday webpage built with HTML5, CSS3, and JavaScript — perfect for celebrating birthdays with style and animation! 🎈🎁
 
