@@ -12,13 +12,13 @@ Built using core web technologies with animation support.
 GitHub
 
 💡 Features
-
+<pre>
 ✔ Beautiful birthday animation and visuals
 ✔ 🎶 Background music for celebration
 ✔ Works in modern browsers (Chrome, Firefox, Safari)
 ✔ Simple to edit and customize
 ✔ Ideal for sharing with friends & loved ones
-
+</pre>
 🛠 Technologies Used
 Technology	Purpose
 HTML5	Structure of the webpage
